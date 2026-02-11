@@ -1,0 +1,26 @@
+{
+  "daily_cleanup": [
+    {
+      "task": "create_folder",
+      "params": {
+        "path": "daily_reports"
+      }
+    },
+    {
+      "task": "move_file",
+      "params": {
+        "src": "report.txt",
+        "dest": "daily_reports/report.txt"
+      }
+    }
+  ],
+
+  "system_setup": [
+    {
+      "task": "create_folder",
+      "params": {
+        "path": "backup"
+      }
+    }
+  ]
+}

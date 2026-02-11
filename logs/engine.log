@@ -1,0 +1,38 @@
+2026-02-10 12:43:27,234 | INFO | Executing task: create_folder
+2026-02-10 12:43:27,235 | INFO | Task completed: create_folder
+2026-02-10 12:52:53,300 | INFO | Executing task: create_folder
+2026-02-10 12:52:53,301 | INFO | Task completed: create_folder
+2026-02-10 12:52:53,301 | INFO | Executing task: move_file
+2026-02-10 12:52:53,308 | ERROR | Task failed: move_file | Error: [WinError 2] The system cannot find the file specified
+2026-02-10 12:53:24,015 | INFO | Executing task: create_folder
+2026-02-10 12:53:24,016 | INFO | Task completed: create_folder
+2026-02-10 12:53:24,016 | INFO | Executing task: move_file
+2026-02-10 12:53:24,017 | ERROR | Task failed: move_file | Error: [WinError 2] The system cannot find the file specified
+2026-02-10 12:58:29,578 | INFO | Executing task: create_folder
+2026-02-10 12:58:29,579 | INFO | Task completed: create_folder
+2026-02-10 12:58:29,579 | INFO | Executing task: move_file
+2026-02-10 12:58:29,580 | INFO | Task completed: move_file
+2026-02-10 12:58:35,201 | INFO | Executing task: create_folder
+2026-02-10 12:58:35,202 | INFO | Task completed: create_folder
+2026-02-10 12:58:35,202 | INFO | Executing task: move_file
+2026-02-10 12:58:35,203 | ERROR | Task failed: move_file | Error: [WinError 2] The system cannot find the file specified
+2026-02-10 13:00:15,446 | INFO | Executing task: create_folder
+2026-02-10 13:00:15,447 | INFO | Task completed: create_folder
+2026-02-10 13:00:15,447 | INFO | Executing task: move_file
+2026-02-10 13:00:15,454 | INFO | Task completed: move_file
+2026-02-10 13:00:36,859 | INFO | Executing task: create_folder
+2026-02-10 13:00:36,860 | INFO | Task completed: create_folder
+2026-02-10 13:00:36,860 | INFO | Executing task: move_file
+2026-02-10 13:00:36,861 | ERROR | Task failed: move_file | Error: [WinError 2] The system cannot find the file specified
+2026-02-10 14:55:51,619 | INFO | Executing task: create_folder
+2026-02-10 14:55:51,621 | INFO | Task completed: create_folder
+2026-02-10 14:55:51,621 | INFO | Executing task: move_file
+2026-02-10 14:55:51,625 | ERROR | Task failed: move_file | Error: [WinError 2] The system cannot find the file specified
+2026-02-10 15:03:10,024 | INFO | Executing task: create_folder
+2026-02-10 15:03:10,025 | INFO | Task completed: create_folder
+2026-02-10 15:03:10,025 | INFO | Executing task: move_file
+2026-02-10 15:03:10,026 | ERROR | Task failed: move_file | Error: [WinError 2] The system cannot find the file specified
+2026-02-10 15:08:41,787 | INFO | Executing task: create_folder
+2026-02-10 15:08:41,788 | INFO | Task completed: create_folder
+2026-02-10 15:08:41,788 | INFO | Executing task: move_file
+2026-02-10 15:08:41,788 | INFO | Task completed: move_file
